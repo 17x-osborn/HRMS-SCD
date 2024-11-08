@@ -11,7 +11,7 @@ This dataset is based on high-resolution satellite remote sensing images, delive
 - **Two Image Sizes**: Available in 512×512 pixels for efficient training and 2048×2048 pixels to preserve global context.
 
 ## Download
-[Dataset Download Link](#)  <!-- Replace with the actual link to download the dataset -->
+[BaiduDrive](#)  <!--https://pan.baidu.com/s/1_J-KDXcuiKdb0hzAZKwrhw?pwd=l8f7 -->
 
 ---
 
